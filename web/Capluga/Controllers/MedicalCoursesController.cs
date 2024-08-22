@@ -158,7 +158,6 @@ namespace Capluga.Controllers
             }
         }
 
-<<<<<<< HEAD
         [HttpGet]
         public ActionResult ActualizarCurso(long q)
         {
@@ -209,10 +208,8 @@ namespace Capluga.Controllers
             return View(datos);
         }
 
-=======
 
        
->>>>>>> 44b6fd92914204f3358f1c4c4a0d78d09d3e0228
         [HttpGet]
         public ActionResult DetallesCurso(long id)
         {
